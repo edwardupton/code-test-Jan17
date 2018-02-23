@@ -2,13 +2,14 @@
 
 One challenge we have at Littledata is to categorise our client's websites by industry sector, so we can compare them with websites from the same industry.
 
-Your task is to:
+Your feature we want you to build, using your chosen Javascript framework (angular / react / meteor):
 
-1. Pick an appropriate API to use (a paid-for API is fine, providing it has free trial usage) which categorises websites into IAB Sectors - https://www.iab.com/guidelines/iab-quality-assurance-guidelines-qag-taxonomy/
+# As a public user I can submit a URL and get back a top level category for that website
 
-2. Write a function to accept a website URL and return an industry category and subcategory from the API
 
-3. Extend the function to iterate over an array of 2000 URLs
+You can use the Watson Natual Language Understanding API to return a category: https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/#categories
+
+
 
 We are looking for well structured and commented code, and in the 2nd interview we will ask why you made certain design choices.
 
