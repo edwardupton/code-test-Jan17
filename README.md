@@ -2,7 +2,7 @@
 
 One challenge we have at Littledata is to categorise our client's websites by industry sector, so we can compare them with websites from the same industry.
 
-The app we want you to build, using your chosen Javascript framework (angular / react / meteor) and Node backend is:
+The app we want you to build, using _your chosen front-end framework_ (angular / react / meteor) and a PHP OR Node backend is:
 
 * As a public user I can submit a URL and get back a top level category for that website
 
